@@ -2,7 +2,7 @@
 
 Un gestor de contraseñas seguro y local, desarrollado en Python con cifrado AES-256. Diseñado para proteger tus credenciales con tecnología robusta y una interfaz intuitiva.
 
-![securepassx](https://github.com/user-attachments/assets/a5534a3b-1724-454e-b044-f49e9212d2f3)) *(Reemplazar con captura real)*
+![securepassx](https://github.com/user-attachments/assets/a5534a3b-1724-454e-b044-f49e9212d2f3))
 
 ## Características Clave 🚀
 - **🔐 Cifrado Fuerte**: AES-256 con derivación PBKDF2-HMAC
