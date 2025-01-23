@@ -22,8 +22,3 @@ Un gestor de contraseñas seguro y local, desarrollado en Python con cifrado AES
 - **Interfaz**: Tkinter
 - **Gestión de Contraseñas**: Módulo `secrets`
 
-## Instalación ⚙️
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tuusuario/securepass-manager.git
-cd securepass-manager
